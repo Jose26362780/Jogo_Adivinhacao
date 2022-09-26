@@ -1,10 +1,10 @@
-# Stage 03
+# Stage 05
 
-# Projeto-04-Introdução a responsibidade
+# Projeto-01-Jogo de adivinha
 
 
 
-![preview](./.github/projeto_04.png)
+![preview](./.github/jogo_adivinhacao.png)
 
 
 > Trilha Explorer 
