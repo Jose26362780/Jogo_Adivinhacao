@@ -12,7 +12,7 @@
 Projeto construido no stage 03 do programa Explorer da rocketseat - Avaçando no HTML e CSS
 
 
-👉🏼[Clique aqui para accessar](https://jose26362780.github.io/Jogo_adivinhacao/)
+
 
 
 👉🏼[Clique aqui para accessar](https://jogo-adivinhacao.netlify.app/)
