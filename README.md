@@ -1,10 +1,10 @@
 # Stage 05
 
-# Projeto-01-Jogo de adivinha
+# Projeto-01-Jogo de adivinhacao
 
 
 
-![preview](./.github/jogo_adivinhacao.png)
+![preview](./.github/jogo_adivi.png)
 
 
 > Trilha Explorer 
