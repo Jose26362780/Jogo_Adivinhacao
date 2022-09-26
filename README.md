@@ -4,7 +4,7 @@
 
 
 
-![preview](./projeto_04.png)
+![preview](./.github/projeto_04.png)
 
 
 > Trilha Explorer 
